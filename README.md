@@ -1,5 +1,6 @@
 # Projet-web
-Ce projet est une application web de location de voitures. Les utilisateurs peuvent parcourir et réserver des véhicules, avec des fonctionnalités incluant des filtres de recherche, la gestion des réservations et potentiellement la création de compte.
+**Ce projet est une application web** de location de voitures. Les utilisateurs peuvent parcourir et réserver des véhicules, avec des fonctionnalités incluant des filtres de recherche, la gestion des réservations et potentiellement la création de compte.
+
 ![Screenshot 2024-03-30 at 19-05-28 LocationAuto](https://github.com/hadidiayoub/Rental-Car-Project/assets/124187599/5ba0d48f-9370-4c8f-956b-53e6856ceb74)
 
 ![Screenshot 2024-03-30 at 19-06-43 Screenshot](https://github.com/hadidiayoub/Rental-Car-Project/assets/124187599/69023a73-d6fa-4b09-bb5c-b1740c9c55ea)
